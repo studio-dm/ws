@@ -1,4 +1,5 @@
 [{
+			"id": "68ed47ce-8c08-4d68-89a3-51473288006c",
 			"productName": "Fossil",
 			"price": 1899.95,
 			"image": "img/downloaded/MW2.jpg",
@@ -6,6 +7,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "59270b0d-75a2-44e4-b4e8-c5865d2f7a7d",
 			"productName": "Rolex",
 			"price": 8699.75,
 			"image": "img/downloaded/MW1.jpg",
@@ -13,6 +15,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "",
 			"productName": "Fossil",
 			"price": 9550.95,
 			"image": "img/downloaded/LW1.jpg",
@@ -20,6 +23,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "",
 			"productName": "Rolex",
 			"price": 8550.95,
 			"image": "img/downloaded/MW1.jpg",
@@ -27,6 +31,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "17ed5bea-af6d-4286-9669-ebf7777e415b",
 			"productName": "Rolex",
 			"price": 8799.95,
 			"image": "img/luxw/063.png",
@@ -34,6 +39,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "54db32eb-3cc1-4289-a67d-b4cf9bb28e41",
 			"productName": "Rolex",
 			"price": 9999.95,
 			"image": "img/luxw/062.png",
@@ -41,6 +47,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "1d956167-0396-46fb-91a0-3a9b14d07df6",
 			"productName": "Rolex",
 			"price": 8575.95,
 			"image": "img/downloaded/MW1.jpg",
@@ -48,13 +55,14 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "b5b73124-e5a4-4273-9107-96e3be57baf7",
 			"productName": "Rolex",
 			"price": 8595.95,
 			"image": "img/luxw/063.png",
 			"cat": "women",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
-		{
+		{	"id": "eba8b43a-82f9-4060-85e0-95149aa02ee5",
 			"productName": "Rolex",
 			"price": 8599.95,
 			"image": "img/downloaded/MW2.jpg",
@@ -62,6 +70,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "a9cd83fa-7c5f-4912-b99f-9cdb4d32d596",
 			"productName": "Fossil",
 			"price": 1899.95,
 			"image": "img/downloaded/MW2.jpg",
@@ -69,6 +78,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "e7e94e00-4b25-42c8-b1b6-ece8f0416138",
 			"productName": "Rolex",
 			"price": 8699.75,
 			"image": "img/downloaded/MW1.jpg",
@@ -76,6 +86,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "b20cdd79-df01-4d8c-9746-13abc5a75431",
 			"productName": "Fossil",
 			"price": 9550.95,
 			"image": "img/downloaded/LW1.jpg",
@@ -83,6 +94,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "9445bfb6-40c3-4546-b8e3-f737b5310a4d",
 			"productName": "Rolex",
 			"price": 8550.95,
 			"image": "img/downloaded/MW1.jpg",
@@ -90,6 +102,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "66bc5848-d884-4d35-8840-0e6161c1ab15",
 			"productName": "Rolex",
 			"price": 8799.95,
 			"image": "img/luxw/063.png",
@@ -97,6 +110,7 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 		},
 		{
+			"id": "7de97901-5fcb-4b15-b3da-0d6bd36c88a7",
 			"productName": "Rolex",
 			"price": 9999.95,
 			"image": "img/luxw/062.png",
